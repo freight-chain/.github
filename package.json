@@ -1,0 +1,24 @@
+{
+  "name": "@freight-trust/gh-freight-chain",
+  "version": "1.0.0",
+  "description": "github community health files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freight-chain/.github.git"
+  },
+  "keywords": [
+    "github",
+    "health",
+    "community"
+  ],
+  "author": "SEE LICENSE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freight-chain/.github/issues"
+  },
+  "homepage": "https://github.com/freight-chain/.github#readme"
+}
