@@ -1,0 +1,10 @@
+*.vscode
+*.idea
+DS_Store
+*.tar.gz
+*.tar
+key
+Keys
+*.pkcs
+*.pki
+
